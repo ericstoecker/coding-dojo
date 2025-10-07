@@ -1,4 +1,5 @@
 .idea
+.DS_STORE
 
 # Compiled class file
 *.class
